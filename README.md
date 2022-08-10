@@ -1,2 +1,2 @@
 # TokenDrop
-NFT Token Drop Files
+NFT Token Airdrop Python Script
